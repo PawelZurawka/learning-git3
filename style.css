@@ -4,7 +4,11 @@
 }
 
 body {
+<<<<<<< HEAD
   margin: 5px;
+=======
+  margin: 4px;
+>>>>>>> secondbranch
 }
 
 .lirycs__container {
