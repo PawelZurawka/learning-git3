@@ -1,4 +1,5 @@
 * {
+display: -ms-flexbox;
 display: flex;
 }
 
@@ -34,4 +35,4 @@ body {
   padding: 0.8em;
   line-height: 1.5em;
 }
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
